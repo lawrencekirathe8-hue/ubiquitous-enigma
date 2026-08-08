@@ -1,0 +1,14 @@
+{
+  "name": "docs-summary",
+  "version": "0.1.0",
+  "description": "CLI to generate SUMMARY.md from a docs folder",
+  "bin": {
+    "docs-summary": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "generate": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
